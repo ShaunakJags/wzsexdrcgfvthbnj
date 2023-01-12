@@ -1,0 +1,19 @@
+body {
+    background-color: yellow;
+}
+#score {
+    font-size: 35px;
+    margin-left: 40px;
+}
+#timer {
+    font-size: 25px;
+    float: right;
+    margin-right: 40px;
+}
+p {
+    font-size: large;
+    color: blue;
+}
+span {
+    font-size: larger;
+}
